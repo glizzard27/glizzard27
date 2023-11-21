@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glizzard27. You also can call me fajar.
-- 👀 I’m interested in Website & Mobile Apps development. Sometimes.. I'm also interested in Blockchain & Metaverse development.
-- 🌱 I’m currently learning a lot of programming language. Such as Python, COBOL, C++, C, Golang, Java, Javascript, etc.
+- 👀 I’m interested in UI/UX Design and also Website & Mobile Apps Fullstack Development.
+- 🌱 I’m currently learning a lot of programming language. Such as Python, C++, C, Golang, Java, Javascript, PHP etc.
 - 📫 You can reach me by send me an email to @muhammadfajarbaihaqi08@gmail.com
 
 <!---
