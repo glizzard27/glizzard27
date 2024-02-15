@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajar Baihaqi</h1>
-<h3 align="center">An undergraduate informatics engineering student at Gunadarma University. I have keen in Fullstack Website & Mobile Developement. I also interested to UI&UX Design</h3>
+<h3 align="center">An undergraduate informatics engineering student at Gunadarma University. I have interest in Fullstack Website & Mobile Developement. I also keen on UI&UX Designs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glizzard27&label=Profile%20views&color=0e75b6&style=flat" alt="glizzard27" /> </p>
 
