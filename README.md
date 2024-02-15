@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajar Baihaqi</h1>
-<h3 align="center">An undergraduate informatics engineering student at Gunadarma University. I have Interest in Fullstack Website & Mobile Developement</h3>
+<h3 align="center">An undergraduate informatics engineering student at Gunadarma University. I have keen in Fullstack Website & Mobile Developement. I also interested to UI&UX Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glizzard27&label=Profile%20views&color=0e75b6&style=flat" alt="glizzard27" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **a lot of programming language. Such as Python, C++, C, Golang, Java, Javascript, PHP etc.**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [https://github.com/glizzard27](https://github.com/glizzard27)
 
-- 📝 I regularly write articles on [-](-)
+- 📝 I regularly write articles on [https://medium.com/@muhammadfajarbaihaqi27](https://medium.com/@muhammadfajarbaihaqi27)
 
 - 📫 How to reach me **muhammadfajarbaihaqi27@gmail.com**
 
